@@ -1,4 +1,9 @@
-## Hi there 👋
+## Dave Reed (he/him)
+### Computer Science professor at Capital University
+### hobbyist iOS/Mac developer
+* [Attendance2](https://apps.apple.com/us/app/attendance2/id536206472) (iOS)
+* [reDraw Whiteboard](https://apps.apple.com/us/app/redraw-whiteboard/id1114820588) (iPadOS)
+* [GradeA](https://apps.apple.com/us/app/gradea/id423671258?mt=12) (macOS)
 
 <!--
 **dave256/dave256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
